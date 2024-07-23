@@ -1,6 +1,6 @@
-primeiro_dado = input("Digite o primeiro dado: ")
-segundo_dado = input("Digite o segundo dado: ")
+info1 = input("Digite o primeiro dado: ")
+info2 = input("Digite o segundo dado: ")
 
-resultado = primeiro_dado + segundo_dado
+resultado = info1 + " " + info2
 
 print("A concatenação dos dados é:", resultado)
